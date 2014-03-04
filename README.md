@@ -27,7 +27,7 @@ Use asterisk-space at the beginning of a line to make a bullet item.  -->
 1. Click on "Import Policy" and select the minerdetection.policy.json file you downloaded in step 1.
 
 ##Usage
-###*Assign the policy to your server groups:*
+###Assign the policy to your server groups:
 1. Select Servers
 1. For each Server Group you wish to apply this policy to, select "Edit Details" and select this policy under "Configuration"
 1. The configuration check will automatically run for all hosts within the Server Groups you have the policy assigned to at the regular interval.
