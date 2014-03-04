@@ -27,13 +27,7 @@ Use asterisk-space at the beginning of a line to make a bullet item.  -->
 1. Click on "Import Policy" and select the minerdetection.policy.json file you downloaded in step 1.
 
 ##Usage
-<!-- This should be your main section. Show a typical usage statement, syntax diagram, or step-by-step usage instructions.  -->
-<!-- Indent code blocks and command-line examples 4 spaces -->
-<!-- Better yet, enclose your code block in triple backticks (```) and specify its language -- see example ReadMe
-<!-- Show output examples, if useful --> 
-<!-- Create subsections if desired. Use 3 hashmarks and asterisks for subheadings, e.g., "###*Required Customizations*"  or "###*Sample Output*" or "###*Extending MyGitHubTool*" -->
-
-Assign the policy to your server groups:
+###*Assign the policy to your server groups:*
 1. Select Servers
 1. For each Server Group you wish to apply this policy to, select "Edit Details" and select this policy under "Configuration"
 1. The configuration check will automatically run for all hosts within the Server Groups you have the policy assigned to at the regular interval.
