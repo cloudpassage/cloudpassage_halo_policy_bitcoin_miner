@@ -18,6 +18,7 @@ Use asterisk-space at the beginning of a line to make a bullet item.  -->
 
 
 ##Requirements and Dependencies
+* A CloudPassage Halo account (Pro or Enterprise level subscription)
 * This policy is focused on securing Linux operating systems
 
 ##Installation 
